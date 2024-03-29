@@ -43,5 +43,16 @@ public class TrianglePattern1 { // Class declaration
  
 n = 6
 
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * *
+* * * *
+* * *
+* *
+*
 
  */
