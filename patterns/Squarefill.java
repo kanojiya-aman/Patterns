@@ -32,3 +32,13 @@ public class Squarefill {
     }
 }
 
+/*
+
+n = 4
+
+ * * * *
+ * * * *
+ * * * *
+ * * * *
+ 
+ */
