@@ -44,7 +44,7 @@ public class TrianglePattern2 {
  
 n = 6 
 
-  * 
+          *
         * * 
       * * * 
     * * * * 
